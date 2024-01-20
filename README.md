@@ -12,7 +12,7 @@
 
 <hr>
 
-![snake gif](https://github.com/SaumayGoel/SaumayGoel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](github-contribution-grid-snake-dark.svg)
 
 <div id="user-content-toc" align="center">
   <ul>
