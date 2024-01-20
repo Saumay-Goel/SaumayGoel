@@ -12,6 +12,8 @@
 
 <hr>
 
+![snake gif](https://github.com/SaumayGoel/SaumayGoel/blob/output/github-contribution-grid-snake.gif)
+
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
