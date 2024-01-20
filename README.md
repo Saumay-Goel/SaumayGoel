@@ -36,3 +36,9 @@
 <div>
     https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
 </div>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SaumayGoel&label=Profile%20Views&color=9&pretty=true" />
+  </a>
+</div>
