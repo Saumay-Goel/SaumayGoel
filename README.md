@@ -33,16 +33,9 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h4 style="display: inline-block">Languages I know so far</h4></summary>
-    <img src="https://skillicons.dev/icons?i=python,js,cpp&perline=14" />
-  </ul>
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=7" />
   </a>
 </p>
 
