@@ -10,9 +10,8 @@
   </ul>
 </div>
 
-<hr>
-
 ![Snake animation](https://raw.githubusercontent.com/SaumayGoel/SaumayGoel/output/github-contribution-grid-snake-dark.svg)
+<hr>
 
 <div id="user-content-toc" align="center">
   <ul>
