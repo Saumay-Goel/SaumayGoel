@@ -1,11 +1,10 @@
-<div">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
-  </ul>
+<ul align="center">
+  <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
+</ul>
 </div>
 <div id="user-content">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Copy-and-Paste was programmed by programmers for programmers actually.</h2></summary>
   </ul>
 </div>
 <div>
