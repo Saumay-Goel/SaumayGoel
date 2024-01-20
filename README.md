@@ -16,11 +16,21 @@
 
 - 🌱 I’m currently learning **React, React Native, Firebase, C++**
   
-- 🤝 I am actively seeking collaboration opportunities in the realm of web development and am open to partnering up for hackathons or other events to contribute and thrive together.
+- 🤝 I'm eager to collaborate on web development projects or participate in hackathons/events as a teammate.
 
 - 📫 Feel free to reach me out **saumaygoel123@Gmail.com**
 
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
 <div>
     https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
