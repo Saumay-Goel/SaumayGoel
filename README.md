@@ -7,8 +7,8 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-      <h2 style="display: inline-block">while(noSuccess)<br> <span align = "left" > { </span></h2>
-      <h2 style="display: block" align = "left" ><span> { </span></h2>
+      <h2 style="display: inline-block">while(noSuccess)</h2>
+      <h2 style="display: block" align = "right" ><span> { </span></h2>
     </summary>
   </ul>
 </div>
