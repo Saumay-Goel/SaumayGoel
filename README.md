@@ -7,7 +7,7 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-      <h2 style="display: inline-block">“Make it work, make it right, make it fast." – Kent Beck</h2>
+      <h2 style="display: inline-block">“To be irreplaceable one must always be different." - coco chanel</h2>
     </summary>
   </ul>
 </div>
