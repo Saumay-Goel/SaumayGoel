@@ -1,3 +1,9 @@
+<div align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SaumayGoel&label=Profile%20Views&color=9&pretty=true" />
+  </a>
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
@@ -27,21 +33,11 @@
     <summary><h2 style="display: inline-block">Technologies That **I Know / Still Learning👨🏻‍💻**</h2></summary>
   </ul>
 </div>
-<p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
-     </a>
-</p>
+
 <!--tech stack icons-->
 
 
 
 <div>
     https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
-</div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SaumayGoel&label=Profile%20Views&color=9&pretty=true" />
-  </a>
 </div>
