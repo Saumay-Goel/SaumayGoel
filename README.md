@@ -26,12 +26,6 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h4 style="display: inline-block">Web dev tech I know so far or still learning</h4></summary>
-    <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase&perline=14" />
-  </ul>
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
