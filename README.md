@@ -4,7 +4,7 @@
 </div>
 <div id="user-content">
   
-<ul align="center" style = "list-style-type: None">
+<ul align="center" style = "list-style-type: none">
   <summary><h3 style="display: inline-block">Copy-and-Paste was programmed by programmers for programmers actually.</h3></summary>
 </ul>
 </div>
