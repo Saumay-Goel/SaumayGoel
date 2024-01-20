@@ -3,9 +3,10 @@
 </ul>
 </div>
 <div id="user-content">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Copy-and-Paste was programmed by programmers for programmers actually.</h2></summary>
-  </ul>
+  
+<ul align="center" style = "list-style-type: None">
+  <summary><h3 style="display: inline-block">Copy-and-Paste was programmed by programmers for programmers actually.</h3></summary>
+</ul>
 </div>
 <div>
     https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
