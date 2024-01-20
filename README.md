@@ -1,4 +1,9 @@
 <div id="user-content-toc">
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
+    </a>
+  </p>
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
   </ul>
@@ -29,11 +34,7 @@
 </div>
 <!--tech stack icons-->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
-  </a>
-</p>
+
 
 <div>
     https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
