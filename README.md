@@ -6,7 +6,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">while(noSuccess) {<br>try again();<br> if (Dead) <br> break; </h2></summary>
+    <summary><h2 style="display: inline-block">while(noSuccess)<br> {try again();<br> if (Dead) <br> break; </h2></summary>
   </ul>
 </div>
 
