@@ -26,12 +26,12 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That **I Know / Still Learning👨🏻‍💻**</h2></summary>
   </ul>
-   <p align="left">
+</div>
+<p align="center">
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
      </a>
-   </p>
-</div>
+</p>
 <!--tech stack icons-->
 
 
