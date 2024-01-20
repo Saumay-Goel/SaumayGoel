@@ -7,8 +7,7 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-      <h2 style="display: inline-block">while(noSuccess)<br></h2>
-      <h2 style="display: block" align = "right" ><span> { </span></h2>
+      <h2 style="display: inline-block">“Make it work, make it right, make it fast.” – Kent Beck</h2>
     </summary>
   </ul>
 </div>
