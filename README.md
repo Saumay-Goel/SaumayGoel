@@ -22,13 +22,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That **I Know / Still Learning👨🏻‍💻**</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,figma,firebase,github,js,python,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,react,js,firebase,github,git,python,cpp&perline=14" />
   </a>
 </p>
 
