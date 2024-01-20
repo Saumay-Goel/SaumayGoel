@@ -5,9 +5,9 @@
 </div>
 
 <div id="user-content-toc" align="center">
-  <ul align="left">
+  <ul>
     <summary>
-      <h2 style="display: inline-block">while(noSuccess)<br> <span align = "left">{</span></h2>
+      <h2 style="display: inline-block">while(noSuccess)<br> <span align = "left" > { </span></h2>
     </summary>
   </ul>
 </div>
