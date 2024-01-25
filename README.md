@@ -16,7 +16,7 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-      <h2 style="display: inline-block">“To be irreplaceable one must always be different." - coco chanel</h2>
+      <h2 style="display: inline-block">“To be irreplaceable one must always be different." - Coco Chanel</h2>
     </summary>
   </ul>
 </div>
@@ -42,8 +42,3 @@
 
 <!--tech stack icons-->
 
-
-
-<div>
-    https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
-</div>
