@@ -21,11 +21,6 @@
   </ul>
 </div>
 
-<summary>
-      <p style="display: inline-block">As a first-year student at SRM University pursuing a BTech degree, I am deeply interested in the realm of web development, with a particular enthusiasm for cloud computing. I aspire to thrive as a full-stack developer, currently engrossed in mastering Firebase and the MERN stack while refining my problem-solving skills through data structures and algorithms. Furthermore, my keen interest in cloud computing drives my eagerness to broaden my expertise in this domain.
-      </p>
-</summary>
-
 - 🔭 I’m currently working on **a file-sharing web app built on HTML, CSS, JS, and Firebase**
 
 - 🌱 I’m currently learning **React, Firebase, C++**
