@@ -20,11 +20,6 @@
     </summary>
   </ul>
 </div>
-
-- 🔭 I’m currently working on **a file-sharing web app built on HTML, CSS, JS, and Firebase**
-
-- 🌱 I’m currently learning **React, Firebase, C++**
-  
 - 🤝 I'm eager to collaborate on web development projects or participate in hackathons/events as a teammate.
 
 - 📫 Feel free to reach me out **saumaygoel123@Gmail.com**
