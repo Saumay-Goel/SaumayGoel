@@ -22,6 +22,8 @@
 </div>
 - 🤝 I'm eager to collaborate on web development projects or participate in hackathons/events as a teammate.
 
+- Currently i am diving deep in the field of Deep learning.
+
 - 📫 Feel free to reach me out **saumaygoel123@Gmail.com**
 
 <div id="user-content-toc">
